@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './App.scss';
 import Keyboard from './components/Keyboard';
 import useCalculartor from './hooks/Calculator';
 
